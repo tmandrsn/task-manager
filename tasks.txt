@@ -1,0 +1,7 @@
+tom ; Register Users with taskManager.py; Use taskManager.py to add the usernames and passwords for all team members that will be using this program.;10 Nov 2022;20 Oct 2019;No;1
+admin; Assign initial tasks; Use taskManager.py to assign each team member with appropriate tasks;20 Dec 2022;25 Oct 2019;No;2
+tom;adasd;asdasd;10 Nov 2022;10 Nov 2022;No;3
+tom;something;something;10 Dec 2023;10 Nov 2022;No;4
+tom;tassk;do something;11 Oct 2022;14 Nov 2022;No;5
+tom;something;ddf;12 Oct 2022;14 Nov 2022;Yes;6
+admin;title;description;10 Nov 2022;15 Nov 2022;No;7
